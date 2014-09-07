@@ -22,4 +22,4 @@ requires:
   JSON::Tiny: 0.49
 resources:
   repository: git://github.com/logicalhelion/heliosx-job-json.git
-version: 0.01_3460
+version: 0.02_3670
