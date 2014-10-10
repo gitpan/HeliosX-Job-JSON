@@ -33,15 +33,16 @@
       "runtime" : {
          "requires" : {
             "Helios" : "2.8",
-            "JSON::Tiny" : "0.49"
+            "JSON::Tiny" : "0.49",
+            "perl" : "5.01"
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "repository" : {
          "url" : "git://github.com/logicalhelion/heliosx-job-json.git"
       }
    },
-   "version" : "0.02_3670"
+   "version" : "1.00"
 }
